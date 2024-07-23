@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+#button-1, #button-2{
+	padding-bottom:1px;
+}
+#button-2 {
+    background: white;
+    color: #6c757d;
+}
+
+#button-3{
+	padding: 8px 18px
+}
+
+#button-4{
+	padding:0px;
+}
+
+#button-5{
+	width:100%;
+}
